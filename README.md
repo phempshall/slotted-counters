@@ -1,6 +1,6 @@
 # The Slotted Counter / Sharding Counters Pattern
 
-PHP Doctrine/Smyfony implementation of the slotted counter / sharding counters pattern as described by Sam Lambert [https://planetscale.com/blog/the-slotted-counter-pattern](https://planetscale.com/blog/the-slotted-counter-pattern).
+PHP Doctrine/Symfony implementation of the slotted counter / sharding counters pattern as described by Sam Lambert [https://planetscale.com/blog/the-slotted-counter-pattern](https://planetscale.com/blog/the-slotted-counter-pattern).
 
 ## Usage Example
 
